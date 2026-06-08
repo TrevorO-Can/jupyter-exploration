@@ -1,1 +1,1 @@
-# jupyter-exploration
+This is The Respository for the assignment. In this file, knowing that it is public, and with the ReadMe attached file, I have included my jupyter notebook, Titled as "My_First_Notebook.ipynb". Everything from the assignment (minus the Reflection), should be able to be found here. 
